@@ -1,3 +1,9 @@
-# vc-intelligence-interface-
-Precision AI Scout for VCs – VC Intelligence Interface + Live Enrichment
 
+vc-intelligence/
+ ├── app/
+ ├── components/
+ ├── lib/
+ ├── prisma/ (agar use kiya hai)
+ ├── package.json
+ ├── README.md
+ └── .gitignore
